@@ -8,6 +8,8 @@ Install dependencies with `npm install`.
 
 ```sh
 npm start
+
+brew services start postgresql@10
 ```
 
 ## Creating The DB
